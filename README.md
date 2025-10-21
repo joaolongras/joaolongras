@@ -65,5 +65,17 @@ q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-ba
  <img height="180em" src="https://readme-stats.warengonzaga.com/api/top-langs?username=joaolongras&layout=compact"/>
 </div>
 
+<details open> 
+  <summary><h2>📘 Projects</h2></summary>
 
+  <p align="left">
+    <a href="https://github.com/joaolongras/Project_LDTS-TetrisRunner"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaolongras&repo=Project_LDTS-TetrisRunner&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project_LDTS-TetrisRunner"></a>
+    <a href="https://github.com/joaolongras/DA-Algos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=joaolongras&repo=DA-Algos&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="DA-Algos"></a>
+    <a href="https://github.com/joaolongras/VC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaolongras&repo=VC&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="VC"></a>
+    <a href="https://github.com/joaolongras/CAC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaolongras&repo=CAC&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CAC"></a>
+    <a href="https://github.com/joaolongras/Guardian-F.P"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaolongras&repo=Guardian-F.P&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Guardian-F.P"></a>
+    <a href="https://github.com/joaolongras/SmogJ1.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaolongras&repo=SmogJ1.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SmogJ1.github.io"></a>
+  </p>
 
+  <a href="https://github.com/joaolongras?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
