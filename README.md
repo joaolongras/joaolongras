@@ -60,10 +60,26 @@ q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-ba
 
 ## ⚡ GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://readme-stats.warengonzaga.com/api?username=joaolongras&show_icons=true&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://readme-stats.warengonzaga.com/api/top-langs?username=joaolongras&layout=compact"/>
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=joaolongras&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Most Used Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolongras&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+<br clear="left"/>
+<br/>
+<br/>
 
 <details open> 
   <summary><h2>📘 Projects</h2></summary>
