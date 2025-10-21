@@ -68,7 +68,7 @@ q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-ba
 <details open> 
   <summary><h2>📘 Projects</h2></summary>
 
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/joaolongras/Project_LDTS-TetrisRunner"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaolongras&repo=Project_LDTS-TetrisRunner&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project_LDTS-TetrisRunner"></a>
     <a href="https://github.com/joaolongras/DA-Algos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=joaolongras&repo=DA-Algos&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="DA-Algos"></a>
     <a href="https://github.com/joaolongras/VC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaolongras&repo=VC&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="VC"></a>
