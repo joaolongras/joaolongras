@@ -95,3 +95,4 @@ q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-ba
 
   <a href="https://github.com/joaolongras?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+
